@@ -1,2 +1,2 @@
-# Harshad-s_number
+# Harshad's_number
 Python Description
